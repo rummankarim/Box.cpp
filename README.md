@@ -1,1 +1,1 @@
-# Box.cpp
+# Checkerboard.cpp
